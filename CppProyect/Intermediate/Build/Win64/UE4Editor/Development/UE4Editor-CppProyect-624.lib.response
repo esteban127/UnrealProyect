@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CppProyect-624.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\CharacterManager.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\CppProyect.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\CppProyectGameModeBase.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\DataInterface.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\MyEnemy.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\MyPawn.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\CharacterManager.gen.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\CppProyect.init.gen.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\CppProyectGameModeBase.gen.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\DataInterface.gen.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\MyEnemy.gen.cpp.obj"
+"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\MyPawn.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\CppProyect\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Sistemas\Desktop\Esteban Borgogno\Unreal\CppProyect\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CppProyect-624.lib"

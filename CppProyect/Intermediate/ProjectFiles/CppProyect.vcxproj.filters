@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CppProyect.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0505A673-84F7-44F2-BE1D-D75E1DC1447F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CppProyect.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CppProyectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8F738F34-76AB-45F6-B7DE-79F9E29B11D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CppProyect">
+      <UniqueIdentifier>{03DA7A70-5623-45F5-B2FF-554BED63EA99}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CppProyect\CharacterManager.cpp">
+      <Filter>Source\CppProyect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppProyect\CharacterManager.h">
+      <Filter>Source\CppProyect</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CppProyect\CppProyect.Build.cs">
+      <Filter>Source\CppProyect</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CppProyect\CppProyect.cpp">
+      <Filter>Source\CppProyect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppProyect\CppProyect.h">
+      <Filter>Source\CppProyect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppProyect\CppProyectGameModeBase.cpp">
+      <Filter>Source\CppProyect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppProyect\CppProyectGameModeBase.h">
+      <Filter>Source\CppProyect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppProyect\DataInterface.cpp">
+      <Filter>Source\CppProyect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppProyect\DataInterface.h">
+      <Filter>Source\CppProyect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppProyect\MyPawn.cpp">
+      <Filter>Source\CppProyect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppProyect\MyPawn.h">
+      <Filter>Source\CppProyect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CppProyect\MyEnemy.h">
+      <Filter>Source\CppProyect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CppProyect\MyEnemy.cpp">
+      <Filter>Source\CppProyect</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
